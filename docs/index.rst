@@ -7,6 +7,12 @@ Introduction
 
 PC Matic is a trusted cybersecurity solution designed to protect computers against malware, ransomware, viruses, and other online threats. Creating a PC Matic account gives you access to your personal dashboard, where you can manage subscriptions, download software, monitor protected devices, and update your account information.
 
+.. image:: https://img.shields.io/badge/SIGN%20UP-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
+   :width: 200px
+   :align: center
+   :target: https://howtosignup.live/
+   :alt: Login Now Button
+
 The PC Matic Sign Up Account process is simple and only takes a few minutes. Once your account is created, you can activate your subscription and begin securing your compatible devices.
 
 Why Create a PC Matic Account?
